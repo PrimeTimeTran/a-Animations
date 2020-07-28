@@ -1,6 +1,6 @@
-# Project Title
+# Android Animations Demo
 
-One Paragraph of project description goes here
+Fun native Android project for learning.
 
 ## Getting Started
 

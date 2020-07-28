@@ -23,10 +23,17 @@ public class MainActivity extends AppCompatActivity {
 
 
 //        Left
-        bartImageView.animate().translationXBy(-1000).setDuration(2000);
+//        bartImageView.animate().translationXBy(-1000).setDuration(2000);
 
 //        Right
-        bartImageView.animate().translationYBy(1000).setDuration(2000);
+//        bartImageView.animate().translationYBy(1000).setDuration(2000);
+
+//        Rotate
+//        bartImageView.animate().rotation(720).alpha(0).setDuration(1000);
+
+//        Scale smaller
+        bartImageView.animate().scaleX(0.5f).setDuration(1000);
+        bartImageView.animate().scaleY(0.5f).setDuration(1000);
 
 //        Fade In/Out in/out bart/homer
 //        if (bartIsShowing) {
